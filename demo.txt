@@ -1,1 +1,2 @@
 ﻿Git demo 1
+git merge example
