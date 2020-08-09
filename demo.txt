@@ -1,2 +1,3 @@
 ﻿Git demo 1
 git merge example
+merge to both of file $#@!
